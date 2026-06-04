@@ -1,5 +1,10 @@
 Della Duck
 Miss Tick
 Donald Duck
+Daisy Duck
+Zaza Vanderquack
 Riri Duck
+Fifi Duck
+Loulou Duck
 Gontran Bonheur
+Hortence Picsou
