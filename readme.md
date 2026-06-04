@@ -20,6 +20,15 @@ git remote remove <remote-name>
 git remote add origin https://github.com/FormCours/TI_2026__ConsultantBI__Demo_Git_02.git
 ```
 
+### Récuperation d'un projet
+```
+# Cloner un repo
+git clone <url-repo>
+
+# Cloner un repo en renommant le dossier
+git clone <url-repo> <dir-name>
+```
+
 ### Synchronisation entre local et distant 
 ```
 # Récuperer les commits sans les appliquer
