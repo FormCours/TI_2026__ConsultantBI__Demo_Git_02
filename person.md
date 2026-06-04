@@ -5,3 +5,5 @@ Gontran Bonheur
 Balthazar Picsou
 Archibald Gripsou
 Flagada Jones
+Les raptous
+Mamie Baba
