@@ -1,5 +1,4 @@
 Della Duck
-Miss Tick
 Donald Duck
 Daisy Duck
 Zaza Vanderquack
@@ -7,4 +6,9 @@ Riri Duck
 Fifi Duck
 Loulou Duck
 Gontran Bonheur
+Balthazar Picsou
+Archibald Gripsou
+Flagada Jones
+Les raptous
+Mamie Baba
 Hortence Picsou
