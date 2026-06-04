@@ -1,5 +1,6 @@
 Della Duck
-Miss Tick
 Donald Duck
 Riri Duck
 Gontran Bonheur
+Balthazar Picsou
+Archibald Gripsou
