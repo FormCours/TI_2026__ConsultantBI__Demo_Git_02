@@ -8,6 +8,7 @@ Loulou Duck
 Gontran Bonheur
 Balthazar Picsou
 Archibald Gripsou
+Géo Trouve tout
 Flagada Jones
 Les raptous
 Mamie Baba
